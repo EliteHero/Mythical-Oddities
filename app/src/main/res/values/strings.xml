@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Mythical Oddities</string>
+    <string name="creature1">Dragon</string>
+    <string name="creature2">Leviathan</string>
+    <string name="creature3">Cthulhu</string>
+    <string name="creature4">Chimera</string>
+    <string name="creature5">Phoenix</string>
+    <string name="creature6">Griffin</string>
+    <string name="creature7">Unicorn</string>
+    <string name="creature8">Cerberus</string>
+    <string name="creature9">Yeti</string>
+    <string name="creature10">Banshee</string>
+
+    <string name="creature1Detail">
+        Dragons are legendary creatures that appear in the myths of many cultures around the world,
+        often portrayed as powerful, winged reptiles capable of breathing fire. In Western mythology,
+        dragons are usually seen as fierce and dangerous, while in Eastern traditions, they’re wise,
+        benevolent, and bringers of good fortune.
+    </string>
+    <string name="creature2Detail">
+        In Biblical lore, the Leviathan is a massive sea serpent or dragon that represents chaos and
+        the untamable nature of the ocean. Often associated with destruction, it’s depicted as a monstrous
+        creature that only divine power can control, embodying the dark and powerful forces of the sea.
+    </string>
+    <string name="creature3Detail">
+        Created by writer H.P. Lovecraft, Cthulhu is a cosmic entity with an octopus-like head, scaly body,
+        and immense size. It sleeps beneath the ocean in the lost city of R’lyeh, but its mere presence influences
+        and disturbs those who learn of it. Cthulhu represents the fear of the unknown and the fragility of human
+        sanity in the face of cosmic horrors.
+    </string>
+    <string name="creature4Detail">
+        The Chimera is a fire-breathing monster from Greek mythology, typically depicted with the body of a lion,
+        a goat\'s head rising from its back, and a serpent as its tail. A dangerous, multi-headed creature, the Chimera
+        embodies chaos and unnatural combinations of power.
+    </string>
+    <string name="creature5Detail">
+        In ancient Greek and Egyptian mythology, the Phoenix is a magnificent, colorful bird that lives for
+        centuries before igniting itself in flames and being reborn from its ashes. This cycle of death and
+        rebirth symbolizes renewal and immortality, making the Phoenix a powerful emblem of resilience.
+    </string>
+    <string name="creature6Detail">
+        A creature from ancient mythology, the Griffin has the body of a lion and the head and wings of an eagle.
+        Revered for its strength and majesty, the Griffin is seen as a guardian and protector, often associated with
+        treasures and the divine.
+    </string>
+    <string name="creature7Detail">
+        Unicorns are magical creatures resembling horses with a single horn on their foreheads. Known for their
+        purity and beauty, they’re often symbols of innocence and grace in Western mythology. Some legends claim
+        that only the pure-hearted can approach or tame a unicorn.
+    </string>
+    <string name="creature8Detail">
+        Cerberus is the three-headed dog in Greek mythology that guards the gates of the Underworld, preventing
+        the dead from leaving. Each of its heads symbolizes different aspects of time—past, present, and future—while
+        its loyalty to Hades makes it an unyielding guardian.
+    </string>
+    <string name="creature9Detail">
+        Also known as the “Abominable Snowman,” the Yeti is a large, ape-like creature believed to live in
+        the snowy mountains of the Himalayas. Though sightings are rare, it has become a symbol of the
+        mystery and ruggedness of the wilderness, embodying the allure of the unknown.
+    </string>
+    <string name="creature10Detail">
+        In Irish folklore, the Banshee is a female spirit who appears when someone is about to die, her mournful
+        wail signaling the impending loss. Often dressed in gray or white, she is seen as a harbinger of death
+        but is not considered malicious, merely delivering a warning to loved ones.
+    </string>
+
+    <string name="place1">Atlantis</string>
+    <string name="place2">Mount Olympus</string>
+    <string name="place3">Loch Ness</string>
+    <string name="place4">Camelot</string>
+    <string name="place5">Asgard</string>
+    <string name="place6">El Dorado</string>
+    <string name="place7">Avalon</string>
+    <string name="place8">Arcadia</string>
+    <string name="place9">Yggdrasil</string>
+    <string name="place10">Shangri-La</string>
+
+    <string name="place1desc">A powerful, advanced island civilization that sank into the ocean.</string>
+    <string name="place2desc">A divine mountain in Greek mythology.</string>
+    <string name="place3desc">A deep lake in Scotland, famous for the legend of the Loch Ness.</string>
+    <string name="place4desc">The legendary castle and court of King Arthur.</string>
+    <string name="place5desc">The realm of the Norse deities, ruled by Odin.</string>
+    <string name="place6desc">A legendary city of gold in South America.</string>
+    <string name="place7desc">A mystical island where King Arthur was taken to heal.</string>
+    <string name="place8desc">An idyllic, unspoiled wilderness in Greece.</string>
+    <string name="place9desc">The cosmic tree that connects all nine worlds of the universe.</string>
+    <string name="place10desc">A hidden utopian valley in the Himalayas.</string>
+
+    <string name="place1detail">Atlantis is a mythical underwater city, described as a once-thriving, advanced civilization that vanished beneath the waves. Its architecture reflects the grandeur of ancient Greece, with towering marble columns, expansive courtyards, and ornate statues of deities and heroes. Coral and seaweed have claimed much of the city, wrapping the ruins in nature’s embrace. Crystal-clear waters shimmer around the remnants of temples and streets, while schools of fish dart through the arches and windows of submerged buildings. The atmosphere is both serene and mysterious, evoking a timeless allure of an empire lost to the depths.</string>
+    <string name="place2detail">Mount Olympus, the legendary home of the Greek deities, is a mountain of breathtaking majesty and divine presence. Its summit rises above the clouds, crowned with palatial structures of dazzling white marble, adorned with golden accents and intricate carvings. The mountain itself is lush with greenery, waterfalls cascading down its slopes and ethereal mist swirling at its peak. The air is alive with an otherworldly glow, as if touched by the deities themselves. From its heights, one can overlook the sprawling lands of ancient Greece, a fitting perch for deities to watch over humanity.</string>
+    <string name="place3detail">Loch Ness is a vast, tranquil lake nestled in the rugged beauty of the Scottish Highlands. Its dark, mysterious waters stretch into the horizon, framed by rolling hills and ancient forests. A sense of eerie calm envelops the loch, amplified by the persistent mist that clings to its surface. The legend of the Loch Ness Monster adds a layer of intrigue, with ripples and shadows in the water sparking the imagination. The serene landscape, combined with the myths it harbors, makes Loch Ness a place of natural beauty and enigmatic wonder.</string>
+    <string name="place4detail">Camelot, the legendary court of King Arthur, is a beacon of medieval splendor and chivalry. At its heart stands a grand castle with towering stone walls, soaring turrets, and colorful banners fluttering in the breeze. The castle is surrounded by a lively village, with cobblestone streets, bustling markets, and the hum of daily life. Beyond the walls, green forests and meadows stretch as far as the eye can see, providing a picturesque backdrop. Camelot represents an ideal kingdom, filled with bravery, romance, and the pursuit of justice, a symbol of hope and greatness.</string>
+    <string name="place5detail">Asgard, the heavenly realm of Norse mythology, is a place of awe-inspiring beauty and power. At its center lies Valhalla, a magnificent hall with golden roofs that gleam under a sky of endless twilight. Surrounding it are other grand buildings, connected by bridges and pathways lined with mythical creatures. The realm is infused with magic, with shimmering lights cascading like a celestial waterfall. Asgard’s vast plains, majestic mountains, and flowing rivers create a harmonious blend of natural beauty and divine architecture, a fitting home for the deities of the Norse pantheon.</string>
+    <string name="place6detail">El Dorado is a mythical city of gold hidden deep within the uncharted jungles of South America. Its streets and temples are crafted from pure gold, glimmering in the sunlight and reflecting dazzling hues into the surrounding greenery. Intricate carvings and statues tell stories of a prosperous civilization that revered the sun and nature. Cascading waterfalls and winding rivers frame the city, adding to its mystique. El Dorado embodies the allure of riches and the unknown, a symbol of humanity’s endless quest for discovery and wealth.</string>
+    <string name="place7detail">Avalon is a mystical island shrouded in an aura of peace and enchantment. It is a sanctuary of eternal spring, with blooming orchards of apple trees, vibrant meadows, and serene lakes that mirror the golden sunlight. The air is filled with the sweet fragrance of flowers, and gentle breezes carry a sense of tranquility. Legends speak of Avalon as a place of healing and renewal, where King Arthur was taken to recover from his mortal wounds. Its idyllic beauty and magical essence make it a symbol of hope and harmony.</string>
+    <string name="place8detail">Arcadia is an idyllic paradise of unspoiled wilderness, celebrated as a realm of peace and simplicity. Rolling green hills stretch endlessly under a radiant blue sky, dotted with clusters of trees and crystal-clear streams. Shepherds tend to their flocks, while wildflowers bloom in vibrant colors across the meadows. The landscape is alive with the songs of birds and the hum of bees, embodying harmony between humanity and nature. Arcadia represents a timeless ideal of pastoral life, free from the complexities and stresses of modernity.</string>
+    <string name="place9detail">Yggdrasil, the World Tree of Norse mythology, is an immense ash tree that connects the nine realms of existence. Its roots delve deep into the underworld, while its branches stretch high into the heavens, bridging all dimensions of the cosmos. The tree is alive with energy, its bark glowing faintly with runes of ancient magic. Creatures like the dragon Nidhogg gnaw at its roots, while eagles and squirrels traverse its expanse. Yggdrasil symbolizes the interconnectedness of all things, a living representation of life, death, and rebirth in the Norse worldview.</string>
+    <string name="place10detail">Shangri-La is a hidden paradise tucked away in the Himalayas, a sanctuary of eternal peace and harmony. Enclosed by snow-capped mountains, the valley is filled with lush greenery, flowing rivers, and vibrant blossoms. Traditional Tibetan-inspired buildings with ornate carvings and prayer flags line the slopes, exuding serenity. The air is crisp and pure, imbued with a mystical quality that inspires a sense of wonder. Shangri-La is a utopia, a place where time slows, and the soul finds solace amidst breathtaking natural beauty.</string>
+
+    <string name="badge1">Novice Explorer</string>
+    <string name="badge1desc">Awarded for viewing the first mythical creature entry.</string>
+
+    <string name="badge2">Arcane Sorcerer</string>
+    <string name="badge2desc">Unlocked for reading five mythical creature entries.</string>
+
+    <string name="badge3">The Lore Keeper</string>
+    <string name="badge3desc">Awarded for exploring a rare creature entry.</string>
+
+    <string name="badge4">Mystic Cartographer</string>
+    <string name="badge4desc">Earned by discovering three mythical places.</string>
+
+    <string name="badge5">Beast Whisperer</string>
+    <string name="badge5desc">Awarded for reading five entries on mythical beasts.</string>
+
+    <string name="badge6">Seeker of Secrets</string>
+    <string name="badge6desc">Unlocked for visiting hidden entries in the app.</string>
+
+    <string name="badge7">Ancient Archivist</string>
+    <string name="badge7desc">Awarded for viewing ten mythical creature or place entries.</string>
+
+    <string name="badge8">Celestial Observer</string>
+    <string name="badge8desc">Earned by exploring a legendary place in the app.</string>
+
+    <string name="badge9">Guardian of Legends</string>
+    <string name="badge9desc">Awarded for revisiting entries three times or more.</string>
+
+    <string name="badge10">Mythical Master</string>
+    <string name="badge10desc">Unlocked after exploring all mythical creatures and places in the app.</string>
+
+    <string name="profilename">Bagas Satrio</string>
+    <string name="profilejob">Software Engineer</string>
+    <string name="aboutmedesc">Hello! I\'m Bagas, a software engineering student at Batam State Polytechnic. This mobile app is a part of my project throughout the Independent Study Program at Infinite Learning. It\'s great to see you!</string>
+</resources>
